@@ -1,10 +1,3 @@
-/*
- * button.c
- *
- *  Created on: Oct 10, 2023
- *      Author: Acer
- */
-
 #include "button.h"
 #include "main.h"
 
