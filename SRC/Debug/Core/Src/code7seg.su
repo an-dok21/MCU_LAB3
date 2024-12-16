@@ -1,0 +1,12 @@
+../Core/Src/code7seg.c:14:6:led7seg_0	8	static
+../Core/Src/code7seg.c:24:6:led7seg_1	8	static
+../Core/Src/code7seg.c:34:6:led7seg_2	8	static
+../Core/Src/code7seg.c:44:6:led7seg_3	8	static
+../Core/Src/code7seg.c:54:6:led7seg_4	8	static
+../Core/Src/code7seg.c:64:6:led7seg_5	8	static
+../Core/Src/code7seg.c:74:6:led7seg_6	8	static
+../Core/Src/code7seg.c:84:6:led7seg_7	8	static
+../Core/Src/code7seg.c:94:6:led7seg_8	8	static
+../Core/Src/code7seg.c:104:6:led7seg_9	8	static
+../Core/Src/code7seg.c:114:6:display7SEG	16	static
+../Core/Src/code7seg.c:151:6:fsmled7seg	8	static
