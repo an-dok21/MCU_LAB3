@@ -1,11 +1,3 @@
-/*
- * fsm.c
- *
- *  Created on: Oct 10, 2023
- *      Author: Acer
- */
-
-
 #include "fsm.h"
 #include "main.h"
 #include "softwareTimer.h"
